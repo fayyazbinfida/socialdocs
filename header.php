@@ -173,178 +173,180 @@ session_start();
 </head>
 
 <body>
-  <div id="app" data-server-rendered="true">
-    <div class="theme-container">
-    <header class="navbar">
+    <div id="app" data-server-rendered="true">
+        <div class="theme-container">
+            <header class="navbar">
                 <div class="sidebar-button">
                     <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon">
                         <path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path>
                     </svg>
                 </div>
-                <a href="index.php" aria-current="page" class="home-link router-link-exact-active router-link-active"><img src="Logo.png" alt="Help Center" class="logo">
+                <a href="index.php" aria-current="page" class="home-link router-link-exact-active router-link-active">
+                    <img src="Logo.png" alt="Help Center" class="logo">
                     <span class="site-name can-hide">Help Center</span>
                 </a>
                 <div class="links">
-                    <div class="search-box"><input aria-label="Search" autocomplete="off" spellcheck="false" value=""> <!---->
-                </div>
-                <nav class="nav-links can-hide">
-            
-                    <div class="nav-item">
-                        <a href="index.php" class="nav-link">Guide</a>
+                    <div class="search-box">
+                        <input aria-label="Search" autocomplete="off" spellcheck="false" value="">
                     </div>
-                    <div class="nav-item">
-                        <div class="dropdown-wrapper">
-                            <button type="button" aria-label="Channels" class="dropdown-title">
-                                <span class="title">Channels</span> <span class="arrow right"></span>
-                            </button>
-                            <ul class="nav-dropdown" style="display:none;">
-                                <li class="dropdown-item"><!---->
-                                    <a href="setup-create.php#omni-bot" class="nav-link">Omnichannel</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="setup-create.php#facebook-bot" class="nav-link">Facebook</a>
-                                </li>
-                                <li class="dropdown-item"><!----> 
-                                    <a href="setup-create.php#instagram-bot" class="nav-link">Instagram</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="setup-create.php#telegram-bot" class="nav-link">Telegram</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="setup-create.php#slack-bot" class="nav-link">Slack</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="setup-create.php#wechat-bot" class="nav-link">WeChat</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="setup-create.php#whatsapp-360dialog-sandbox" class="nav-link">WhatsApp Sandbox</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="whatsapp-api.php" class="nav-link">WhatsApp</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="cloudapi.php" class="nav-link">WhatsApp Cloud API</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                <a href="setup-create.php#whatsapp-sms-voice-bot" class="nav-link">SMS</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="setup-create.php#whatsapp-sms-voice-bot" class="nav-link">Voice</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="setup-create.php#google-my-business" class="nav-link">Google</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="https://help.uchat.com.au/line-chatbot" target="_blank" rel="noopener noreferrer" class="nav-link external">
-                                        Line
-                                        <span>
-                                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound">
-                                                <path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path>
-                                                <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon>
-                                            </svg>
-                                            <span class="sr-only">(opens new window)</span>
-                                        </span>
-                                    </a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="https://help.uchat.com.au/viber-chatbot" target="_blank" rel="noopener noreferrer" class="nav-link external">
-                                        Viber
-                                        <span>
-                                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound">
-                                                <path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path>
-                                                <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon>
-                                            </svg>
-                                            <span class="sr-only">(opens new window)</span>
-                                        </span>
-                                    </a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="setup-create.php#vk-bot" class="nav-link">Vk</a>
-                                </li>
-                            </ul>
+                    <nav class="nav-links can-hide">
+                        <div class="nav-item">
+                            <a href="index.php" class="nav-link">Guide</a>
                         </div>
-                    </div>
-                    <div class="nav-item">
-                        <a href="flow-builder/index.php" class="nav-link">Flow Builder</a>
-                    </div>
-                    <div class="nav-item">
-                        <div class="dropdown-wrapper">
-                            <button type="button" aria-label="Integration" class="dropdown-title">
-                                <span class="title">Integration</span>
-                                <span class="arrow right"></span>
-                            </button>
-                            <ul class="nav-dropdown" style="display:none;">
-                                <li class="dropdown-item"><!---->
-                                    <a href="integration/index.php" class="nav-link">Overview</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="integration/stripe.php" class="nav-link">Stripe</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="integration/mark/paypal.php" class="nav-link">PayPal</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="integration/mark/cloudinary.php" class="nav-link">Cloudinary</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="integration/shopify.php" class="nav-link">Shopify</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="integration/fb-manager.php" class="nav-link">Facebook Business</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="integration/mark/calendly.php" class="nav-link">Calendly</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="integration/slack.php" class="nav-link">Slack</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="integration/slack-agent.php" class="nav-link">Slack Agent</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="integration/dialogflow.php" class="nav-link">Dialogflow</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="integration/google-spreadsheet.php" class="nav-link">Google Spreadsheet</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="integration/data-store.php" class="nav-link">Data Store</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="integration/mark/twilio.php" class="nav-link">Twilio</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="integration/mark/signalwire.php" class="nav-link">SignalWire</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="integration/email.php" class="nav-link">SMTP / Gmail / SendGrid</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="integration/mailchimp.php" class="nav-link">MailChimp</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="integration/mark/zapier.php" class="nav-link">Zapier</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="integration/mark/integromat.php" class="nav-link">Integromat</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="integration/mark/pabbly.php" class="nav-link">Pabbly</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="integration/mark/integrately.php" class="nav-link">Integrately</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="integration/mark/videosdk.php" class="nav-link">VideoSdk</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="integration/intercom.php" class="nav-link">Intercom</a>
-                                </li>
-                                <li class="dropdown-item"><!---->
-                                    <a href="integration/freshchat.php" class="nav-link">Freshchat</a>
-                                </li>
-                            </ul>
+                        <div class="nav-item">
+                            <div class="dropdown-wrapper">
+                                <button type="button" aria-label="Channels" class="dropdown-title">
+                                    <span class="title">Channels</span>
+                                    <span class="arrow right"></span>
+                                </button>
+                                <ul class="nav-dropdown" style="display:none;">
+                                    <li class="dropdown-item">
+                                        <a href="setup-create.php#omni-bot" class="nav-link">Omnichannel</a>
+                                    </li>
+                                    <li class="dropdown-item">
+                                        <a href="setup-create.php#facebook-bot" class="nav-link">Facebook</a>
+                                    </li>
+                                    <li class="dropdown-item"> 
+                                        <a href="setup-create.php#instagram-bot" class="nav-link">Instagram</a>
+                                    </li>
+                                    <li class="dropdown-item">
+                                        <a href="setup-create.php#telegram-bot" class="nav-link">Telegram</a>
+                                    </li>
+                                    <li class="dropdown-item">
+                                        <a href="setup-create.php#slack-bot" class="nav-link">Slack</a>
+                                    </li>
+                                    <li class="dropdown-item">
+                                        <a href="setup-create.php#wechat-bot" class="nav-link">WeChat</a>
+                                    </li>
+                                    <li class="dropdown-item">
+                                        <a href="setup-create.php#whatsapp-360dialog-sandbox" class="nav-link">WhatsApp Sandbox</a>
+                                    </li>
+                                    <li class="dropdown-item">
+                                        <a href="whatsapp-api.php" class="nav-link">WhatsApp</a>
+                                    </li>
+                                    <li class="dropdown-item">
+                                        <a href="cloudapi.php" class="nav-link">WhatsApp Cloud API</a>
+                                    </li>
+                                    <li class="dropdown-item">
+                                    <a href="setup-create.php#whatsapp-sms-voice-bot" class="nav-link">SMS</a>
+                                    </li>
+                                    <li class="dropdown-item">
+                                        <a href="setup-create.php#whatsapp-sms-voice-bot" class="nav-link">Voice</a>
+                                    </li>
+                                    <li class="dropdown-item">
+                                        <a href="setup-create.php#google-my-business" class="nav-link">Google</a>
+                                    </li>
+                                    <li class="dropdown-item">
+                                        <a href="https://help.uchat.com.au/line-chatbot" target="_blank" rel="noopener noreferrer" class="nav-link external">
+                                            Line
+                                            <span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound">
+                                                    <path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path>
+                                                    <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon>
+                                                </svg>
+                                                <span class="sr-only">(opens new window)</span>
+                                            </span>
+                                        </a>
+                                    </li>
+                                    <li class="dropdown-item"><!---->
+                                        <a href="https://help.uchat.com.au/viber-chatbot" target="_blank" rel="noopener noreferrer" class="nav-link external">
+                                            Viber
+                                            <span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound">
+                                                    <path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path>
+                                                    <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon>
+                                                </svg>
+                                                <span class="sr-only">(opens new window)</span>
+                                            </span>
+                                        </a>
+                                    </li>
+                                    <li class="dropdown-item"><!---->
+                                        <a href="setup-create.php#vk-bot" class="nav-link">Vk</a>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
+                        <div class="nav-item">
+                            <a href="flow-builder/index.php" class="nav-link">Flow Builder</a>
+                        </div>
+                        <div class="nav-item">
+                            <div class="dropdown-wrapper">
+                                <button type="button" aria-label="Integration" class="dropdown-title">
+                                    <span class="title">Integration</span>
+                                    <span class="arrow right"></span>
+                                </button>
+                                <ul class="nav-dropdown" style="display:none;">
+                                    <li class="dropdown-item"><!---->
+                                        <a href="integration/index.php" class="nav-link">Overview</a>
+                                    </li>
+                                    <li class="dropdown-item"><!---->
+                                        <a href="integration/stripe.php" class="nav-link">Stripe</a>
+                                    </li>
+                                    <li class="dropdown-item"><!---->
+                                        <a href="integration/mark/paypal.php" class="nav-link">PayPal</a>
+                                    </li>
+                                    <li class="dropdown-item"><!---->
+                                        <a href="integration/mark/cloudinary.php" class="nav-link">Cloudinary</a>
+                                    </li>
+                                    <li class="dropdown-item"><!---->
+                                        <a href="integration/shopify.php" class="nav-link">Shopify</a>
+                                    </li>
+                                    <li class="dropdown-item"><!---->
+                                        <a href="integration/fb-manager.php" class="nav-link">Facebook Business</a>
+                                    </li>
+                                    <li class="dropdown-item"><!---->
+                                        <a href="integration/mark/calendly.php" class="nav-link">Calendly</a>
+                                    </li>
+                                    <li class="dropdown-item"><!---->
+                                        <a href="integration/slack.php" class="nav-link">Slack</a>
+                                    </li>
+                                    <li class="dropdown-item"><!---->
+                                        <a href="integration/slack-agent.php" class="nav-link">Slack Agent</a>
+                                    </li>
+                                    <li class="dropdown-item"><!---->
+                                        <a href="integration/dialogflow.php" class="nav-link">Dialogflow</a>
+                                    </li>
+                                    <li class="dropdown-item"><!---->
+                                        <a href="integration/google-spreadsheet.php" class="nav-link">Google Spreadsheet</a>
+                                    </li>
+                                    <li class="dropdown-item"><!---->
+                                        <a href="integration/data-store.php" class="nav-link">Data Store</a>
+                                    </li>
+                                    <li class="dropdown-item"><!---->
+                                        <a href="integration/mark/twilio.php" class="nav-link">Twilio</a>
+                                    </li>
+                                    <li class="dropdown-item"><!---->
+                                        <a href="integration/mark/signalwire.php" class="nav-link">SignalWire</a>
+                                    </li>
+                                    <li class="dropdown-item"><!---->
+                                        <a href="integration/email.php" class="nav-link">SMTP / Gmail / SendGrid</a>
+                                    </li>
+                                    <li class="dropdown-item"><!---->
+                                        <a href="integration/mailchimp.php" class="nav-link">MailChimp</a>
+                                    </li>
+                                    <li class="dropdown-item"><!---->
+                                        <a href="integration/mark/zapier.php" class="nav-link">Zapier</a>
+                                    </li>
+                                    <li class="dropdown-item"><!---->
+                                        <a href="integration/mark/integromat.php" class="nav-link">Integromat</a>
+                                    </li>
+                                    <li class="dropdown-item"><!---->
+                                        <a href="integration/mark/pabbly.php" class="nav-link">Pabbly</a>
+                                    </li>
+                                    <li class="dropdown-item"><!---->
+                                        <a href="integration/mark/integrately.php" class="nav-link">Integrately</a>
+                                    </li>
+                                    <li class="dropdown-item"><!---->
+                                        <a href="integration/mark/videosdk.php" class="nav-link">VideoSdk</a>
+                                    </li>
+                                    <li class="dropdown-item"><!---->
+                                        <a href="integration/intercom.php" class="nav-link">Intercom</a>
+                                    </li>
+                                    <li class="dropdown-item"><!---->
+                                        <a href="integration/freshchat.php" class="nav-link">Freshchat</a>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
                         <div class="nav-item">
                             <a href="ecommerce/index.php" class="nav-link">Ecommerce</a>
