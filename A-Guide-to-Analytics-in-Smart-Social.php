@@ -10,8 +10,8 @@
         </h1>
         <p>Explore the power of analytics in Smart Social to gain profound insights into your social media performance. Here's a step-by-step guide on how to harness the analytics feature:</p>
 
-        <h1 id="introduction">
-            <a href="#introduction" class="header-anchor">#</a>
+        <h1 id="step01">
+            <a href="#step01" class="header-anchor">#</a>
             Step 1: Access Analytics
         </h1>
         <ol style="list-style-type: none;">
@@ -19,8 +19,8 @@
             <li><strong>1.2 Select Social Media Platform:</strong> Choose the social media platform you want to analyze. For example, if you select "Facebook," you'll get insights specifically for Facebook.</li>
         </ol>
 
-        <h1 id="introduction">
-            <a href="#introduction" class="header-anchor">#</a>
+        <h1 id="step02">
+            <a href="#step02" class="header-anchor">#</a>
             Step 2: Analyze a Specific Page
         </h1>
         <ol style="list-style-type: none;">
@@ -28,8 +28,8 @@
             <li><strong>2.2 Hit "Analyze":</strong> Click the "Analyze" button to initiate the analytics process.</li>
         </ol>
 
-        <h1 id="introduction">
-            <a href="#introduction" class="header-anchor">#</a>
+        <h1 id="step03">
+            <a href="#step03" class="header-anchor">#</a>
             Step 3: Explore Comprehensive Metrics
         </h1>
         <ol style="list-style-type: none;">
@@ -37,8 +37,8 @@
             <li><strong>3.2 Graphs for Key Metrics:</strong> Dive into graphs illustrating "Audience Growth," "Impressions," "Audience Engagement," "Active Fans," and more.</li>
         </ol>
 
-        <h1 id="introduction">
-            <a href="#introduction" class="header-anchor">#</a>
+        <h1 id="step04">
+            <a href="#step04" class="header-anchor">#</a>
             Step 4: Download and Share Reports
         </h1>
         <ol style="list-style-type: none;">
@@ -46,8 +46,8 @@
             <li><strong>4.2 Email Reports:</strong> Share your insights with stakeholders by clicking the "Email PDF" button. This facilitates easy communication and collaboration.</li>
         </ol>
 
-        <h1 id="introduction">
-            <a href="#introduction" class="header-anchor">#</a>
+        <h1 id="step05">
+            <a href="#step05" class="header-anchor">#</a>
             Step 5: Schedule Reports
         </h1>
         <ol style="list-style-type: none;">

@@ -10,8 +10,8 @@
         </h1>
         <p>Congratulations on successfully connecting your social media accounts! Now, let's explore how you can streamline your social media management with the creation and management of groups in Smart Social. Follow these steps to make your posting process even more efficient:</p>
 
-        <h1 id="introduction">
-            <a href="#introduction" class="header-anchor">#</a>
+        <h1 id="step01">
+            <a href="#step01" class="header-anchor">#</a>
             Step 1: Accessing the Groups Feature
         </h1>
         <ol style="list-style-type: none;">
@@ -19,8 +19,8 @@
             <li><strong>1.2 Choose "Create Group" or "Manage Group": </strong> You'll encounter two options: "Create Group" to establish a new group or "Manage Group" to edit existing ones.</li>
         </ol>
 
-        <h1 id="introduction">
-            <a href="#introduction" class="header-anchor">#</a>
+        <h1 id="step02">
+            <a href="#step02" class="header-anchor">#</a>
             Step 2: Creating a Group
         </h1>
         <ol style="list-style-type: none;">
@@ -41,8 +41,8 @@
             <li><strong>2.4 Hit "Save</strong> ": Once you've configured the group settings, click the "Save" button to finalize the creation of your group.</li>
         </ol>
 
-        <h1 id="introduction">
-            <a href="#introduction" class="header-anchor">#</a>
+        <h1 id="step03">
+            <a href="#step03" class="header-anchor">#</a>
             Step 3: Managing Your Groups
         </h1>
         <ol style="list-style-type: none;">
@@ -50,8 +50,8 @@
             <li><strong>3.2. Create Reports:</strong> You can also create reports specific to a group of social media accounts, streamlining your analytics and performance tracking.</li>
         </ol>
 
-        <h1 id="introduction">
-            <a href="#introduction" class="header-anchor">#</a>
+        <h1 id="step04">
+            <a href="#step04" class="header-anchor">#</a>
             Step 4: Posting to Groups
         </h1>
         <ol style="list-style-type: none;">
