@@ -62,13 +62,13 @@
   <footer class="page-edit">
     <div class="last-updated">
       <span class="prefix">Last Updated:</span>
-      <span class="time">6/6/2022, 11:34:37 AM</span>
+      <span class="time">01/01/2024, 11:34:37 AM</span>
     </div>
   </footer>
   <div class="page-nav">
     <p class="inner">
       <span class="next">
-        <a href="register.php">Registration</a>
+        <a href="Creating-Post-In-SmartSocial.php">Creating Posts in Smart Social</a>
         →
       </span>
     </p>
