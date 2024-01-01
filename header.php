@@ -11,7 +11,7 @@ session_start();
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Introduction | Help Center</title>
+  <title>Smart Social | Help Center</title>
   <meta name="generator" content="VuePress 1.8.0">
   <link rel="icon" href="logo.png">
   <link rel="manifest" href="manifest.json">
