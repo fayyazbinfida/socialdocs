@@ -18,6 +18,8 @@
     <p>
       Begin by logging into your Smart Social account. Ensure you use the same browser for both Smart Social and the social media account you wish to connect.
     </p>
+    <img src="assets/img/stepone_login.png" alt="Login Image">
+    <img src="assets/img/stepone_login_2.jpg" alt="Login Image">
     <h1 id="step02">
       <a href="#step02" class="header-anchor">#</a>
       Step 2: Navigate to "Accounts" and Select "Connect Account"
@@ -25,6 +27,7 @@
     <p>
       Once logged in, head over to the "Accounts" section. Here, you'll find the option to "Connect Account." Click on it to initiate the process.
     </p>
+    <img src="assets/img/stepone_connectaccount.jpg" alt="Login Image">
     <h1 id="step03">
       <a href="#step03" class="header-anchor">#</a>
       Step 3: Choose Your Social Media Platform
@@ -32,6 +35,7 @@
     <p>
       A list of various social media platforms will appear. Select the platform (e.g., Facebook, Instagram) for the account you want to connect. Be sure that the account is logged in on the same browser for a smooth connection process.
     </p>
+    <img src="assets/img/stepthree_login.png" alt="Login Image">
     <h1 id="step04">
       <a href="#step04" class="header-anchor">#</a>
       Step 4: Log into Your Social Media Account
@@ -39,6 +43,7 @@
     <p>
       After selecting the platform, you'll be prompted to log into your social media account. This step is crucial for Smart Social to establish a secure and authorized connection.
     </p>
+    <img src="assets/img/stepfour_login.png" alt="Login Image">
     <h1 id="step05">
       <a href="#step05" class="header-anchor">#</a>
       Step 5: Success! Your Account is Connected
@@ -53,6 +58,7 @@
     <p>
       To manage your connected accounts, navigate to the "Manage Accounts" section. Here, you can see a clear list of your connected accounts and access additional options. From here, you can post content, view analytics, and take full control of your social media strategy.
     </p>
+    <img src="assets/img/stepsix_login.png" alt="Login Image">
     <p>
       Connecting your social media accounts with Smart Social opens up a world of possibilities, from efficient content scheduling to in-depth analytics. Now you're equipped to make the most of your social media presence!
     </p>
