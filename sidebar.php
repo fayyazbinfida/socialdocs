@@ -402,6 +402,49 @@
           </li>
         </ul>
       </section>
+      
+      <section class="sidebar-group depth-0">
+        <p class="sidebar-heading open">
+        <a href="How-to-use-Social-Inbox-in-Smart-Social.php">
+          <span>A Guide to Analytics in Smart Social</span>
+        </a>
+        </p>
+        <ul class="sidebar-links sidebar-group-items">
+          <li>
+            <a href="A-Guide-to-Analytics-in-Smart-Social.php#step01" aria-current="page" class="active sidebar-link">Step 01</a>
+            <ul class="sidebar-sub-headers">
+              <li class="sidebar-sub-header">
+                <a href="A-Guide-to-Analytics-in-Smart-Social.php#step01" class="sidebar-link">
+                  Access Analytics
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="A-Guide-to-Analytics-in-Smart-Social.php#step02" aria-current="page" class="active sidebar-link">Step 02</a>
+            <ul class="sidebar-sub-headers">
+              <li class="sidebar-sub-header">
+                <a href="A-Guide-to-Analytics-in-Smart-Social.php#step02" class="sidebar-link">
+                  Analyze a Specific Page
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="A-Guide-to-Analytics-in-Smart-Social.php#step03" aria-current="page" class="active sidebar-link">Step 03</a>
+            <ul class="sidebar-sub-headers">
+              <li class="sidebar-sub-header">
+                <a href="A-Guide-to-Analytics-in-Smart-Social.php#step03" class="sidebar-link">
+                  Explore Comprehensive Metrics
+                </a>
+              </li>
+            </ul>
+          </li>
+
+
+
+
+
     </li>
   </ul>
 </aside>
