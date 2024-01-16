@@ -18,6 +18,7 @@
             <li><strong>1.1 Navigate to "Inbox" in the Navigation Bar:</strong> Click on "Inbox" to access the Social Inbox feature in Smart Social.</li>
             <li><strong>1.2 Explore Connected Platforms:</strong> You'll find a list of social media accounts that Smart Social can manage. These could include accounts from platforms like Facebook, Twitter, Instagram, and more.</li>
         </ol>
+        <img src="assets/img/docseven_stepone.jpg" alt="Login Image">
 
         <h1 id="introduction">
             <a href="#introduction" class="header-anchor">#</a>
@@ -28,6 +29,7 @@
             <li><strong>2.2 Choose an Account:</strong> Once you're on the selected platform, choose the specific account whose inbox you want to open. Click on it to access the conversations.</li>
             <li><strong>2.3 Explore and Respond:</strong> Smart Social's Social Inbox provides a centralized location where you can view and respond to messages from your clients. Navigate through the conversations effortlessly, and respond to your clients in real-time.</li>
         </ol>
+        <img src="assets/img/docseven_steptwo.jpg" alt="Login Image">
 
         <h1 id="introduction">
             <a href="#introduction" class="header-anchor">#</a>
@@ -54,13 +56,13 @@
         <p class="inner">
             <span class="prev">
                 ←
-                <a href="Smart-Social-AI-Assistant.php" class="prev">
-                    Smart Social's Ai Assistant
+                <a href="A-Guide-to-Analytics-in-Smart-Social.php" class="prev">
+                    A Guide to Analytics in Smart Social
                 </a>
             </span>
             <span class="next">
-                <a href="A-Guide-to-Analytics-in-Smart-Social.php">
-                    A Guide to Analytics in Smart Social
+                <a href="How-to-Add-the-First-Comment.php">
+                    How to Add the First Comment
                 </a>
                 →
             </span>

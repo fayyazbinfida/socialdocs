@@ -19,6 +19,7 @@
             <li><strong>1.2 Initiate Post Creation:</strong> Click on "Create Post" to start crafting your content.</li>
             <li><strong>1.3 Choose a Platform:</strong> While creating your post, you'll notice icons representing different social media platforms like Facebook or Instagram.</li>
         </ol>
+        <img src="assets/img/doceight_stepone.jpg" alt="Login Image">
 
         <h1 id="introduction">
             <a href="#introduction" class="header-anchor">#</a>
@@ -28,6 +29,7 @@
             <li><strong>2.1 Click on the Social Media Icon:</strong> Choose the social media platform where you want to add the first comment. Click on the respective icon.</li>
             <li><strong>2.2 Locate "First Comment" Option:</strong> Once you've selected the platform, look for the "First Comment" option. Here, you can add text, hashtags, or a URL to complement your post.</li>
         </ol>
+        <img src="assets/img/doceight_steptwo.jpg" alt="Login Image">
 
         <h1 id="introduction">
             <a href="#introduction" class="header-anchor">#</a>
@@ -36,6 +38,7 @@
         <ol style="list-style-type: none;">
             <li><strong>3.1 Utilize "Post Preview":</strong> Before finalizing, take advantage of the "Post Preview" option. It allows you to see how your post, including the first comment, will appear on the chosen social media platform.</li>
         </ol>
+        <img src="assets/img/doceight_stepthree.jpg" alt="Login Image">
 
         <h1 id="introduction">
             <a href="#introduction" class="header-anchor">#</a>
@@ -44,6 +47,7 @@
         <ol style="list-style-type: none;">
             <li><strong>4.1 Repetition Across Platforms:</strong> You can add the first comment to each social media account post. This ensures consistency and a personalized touch across all platforms.</li>
         </ol>
+        <img src="assets/img/doceight_stepfour.jpg" alt="Login Image">
 
         <h1 id="introduction">
             <a href="#introduction" class="header-anchor">#</a>
@@ -73,8 +77,8 @@
                 </a>
             </span>
             <span class="next">
-                <a href="A-Guide-to-Analytics-in-Smart-Social.php">
-                    A Guide to Analytics in Smart Social
+                <a href="TikTok-Publishing-with-Smart-Social.php">
+                    TikTok Publishing with Smart Social
                 </a>
                 →
             </span>

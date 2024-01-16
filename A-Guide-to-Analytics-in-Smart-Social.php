@@ -76,8 +76,8 @@
                 </a>
             </span>
             <span class="next">
-                <a href="A-Guide-to-Analytics-in-Smart-Social.php">
-                    A Guide to Analytics in Smart Social
+                <a href="How-to-use-Social-Inbox-in-Smart-Social.php">
+                    How to use Social Inbox in Smart Social
                 </a>
                 →
             </span>
