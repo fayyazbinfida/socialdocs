@@ -18,7 +18,7 @@
             <li><strong>1.1 Click on "Groups":</strong> Once you've successfully connected your social media accounts, navigate to the "Groups" option.</li>
             <li><strong>1.2 Choose "Create Group" or "Manage Group": </strong> You'll encounter two options: "Create Group" to establish a new group or "Manage Group" to edit existing ones.</li>
         </ol>
-
+        <img src="assets/img/Accessinggroups.jpg" alt="Login Image">
         <h1 id="step02">
             <a href="#step02" class="header-anchor">#</a>
             Step 2: Creating a Group
@@ -40,7 +40,8 @@
             </li>
             <li><strong>2.4 Hit "Save</strong> ": Once you've configured the group settings, click the "Save" button to finalize the creation of your group.</li>
         </ol>
-
+        <img src="assets/img/creatinggroup.jpg" alt="Login Image">
+        
         <h1 id="step03">
             <a href="#step03" class="header-anchor">#</a>
             Step 3: Managing Your Groups
@@ -57,6 +58,7 @@
         <ol style="list-style-type: none;">
             <li><strong>4.1. Select Group When Posting:</strong> When creating a post, you can now select the group you've created with a single click. This ensures that your content is shared across all the social media accounts within that group effortlessly.</li>
         </ol>
+        <img src="assets/img/postingtogroups.jpg" alt="Login Image">
         <p>By leveraging groups in Smart Social, you've taken a significant step towards optimizing your social media strategy. Enjoy the convenience of managing multiple accounts seamlessly, saving time, and gaining better insights into your social media performance.</p>
         <p>If you have any questions or need further assistance, our support team is always ready to help.</p>
         <p>Happy group management!</p>
