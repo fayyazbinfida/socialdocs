@@ -18,7 +18,7 @@
     <p>
         Start by locating the "Post" option in the Navigation Bar. Click on it, and then choose "Create Post."
     </p>
-    <img src="assets/img/2nd_document_stepone.jpg" alt="Login Image">
+    <img src="assets/img/navigatepost.jpg" alt="Login Image">
     <h1 id="step02">
       <a href="#step02" class="header-anchor">#</a>
       Step 2: Draft Your Post - Write a Captivating Caption
@@ -26,7 +26,7 @@
     <p>
         Once in the post creation draft, unleash your creativity by crafting a compelling caption. This is your opportunity to grab your audience's attention, so make it engaging and relevant to your content.
     </p>
-    <img src="assets/img/2nd_document_steptwo.jpg" alt="Login Image">
+    <img src="assets/img/draftyourpost.jpg" alt="Login Image">
     <h1 id="step03">
       <a href="#step03" class="header-anchor">#</a>
       Step 3: Supercharge Your Hashtags with AI Assistance
@@ -34,6 +34,7 @@
     <p>
         Click on the "#" sign at the bottom to generate powerful hashtags using our AI assistant. Let the AI analyze your content and suggest relevant hashtags that can boost your post's visibility.
     </p>
+    <img src="assets/img/supercharge.jpg" alt="Login Image">
     <h1 id="step04">
       <a href="#step04" class="header-anchor">#</a>
       Step 4: Enhance Your Post with Media - Click "Add Media"
@@ -41,6 +42,7 @@
     <p>
         To make your post visually appealing, click on "Add Media" at the bottom of the original draft. You can upload media directly from your device or explore the option to "Design on Canva" for a professional touch.
     </p>
+    <img src="assets/img/enhancepost.jpg" alt="Login Image">
     <h1 id="step05">
       <a href="#step05" class="header-anchor">#</a>
       Step 5: Choose Your Social Media Platforms
@@ -48,6 +50,9 @@
     <p>
         Select the social media accounts where you want to share your post. You can choose one or multiple platforms. Use the "Post Preview" feature to see how your post will appear on each selected platform.
     </p>
+    <img src="assets/img/socialmedia1.jpg" alt="Login Image">
+    <br><br>
+    <img src="assets/img/socialmedia2.jpg" alt="Login Image">
     <h1 id="step06">
       <a href="#step06" class="header-anchor">#</a>
       Step 6: Add to Queue or Share Immediately
@@ -55,6 +60,8 @@
     <p>
         Decide when you want your post to go live. Click on "Add to Queue" for Smart Social to automatically schedule the post at the optimal time. Alternatively, choose "Share Now" for an immediate share or "Share Next" for the next available slot. You can also schedule your post for a specific time or set it to repeat at intervals with the "Repeat Post" option.
     </p>
+    <img src="assets/img/addtoqueue.jpg" alt="Login Image">
+    
     <h1 id="step07">
       <a href="#step07" class="header-anchor">#</a>
       Step 7: Congratulations! Your Post Is Successfully Shared
