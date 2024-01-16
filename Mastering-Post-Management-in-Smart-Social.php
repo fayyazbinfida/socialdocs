@@ -15,7 +15,7 @@
             Step 1: Accessing Post management
         </h1>
         <p>After posting, head to the "Posts" section and click on "Manage Posts." Here, you'll find a range of options to streamline your post management process.</p>
-
+        <img src="assets/img/Accessingpost.jpg" alt="Login Image">
         <h1 id="step02">
             <a href="#step02" class="header-anchor">#</a>
             Step 2: Explore Post categories
@@ -28,19 +28,19 @@
             <li><strong>Delivered:</strong> Posts that have been successfully published.</li>
             <li><strong>Pending Reviews:</strong> Posts that are awaiting approval or review.</li>
         </ol>
-
+        <img src="assets/img/explorepost.jpg" alt="Login Image">
         <h1 id="step03">
             <a href="#step03" class="header-anchor">#</a>
             Step 3: Navigate Through Time - List, Day, Week, Month
         </h1>
         <p>Sort your posts based on different time frames. Click on "List" to see all your posts, or choose "Day," "Week," or "Month" to filter posts according to these durations. This feature offers a quick and efficient way to review and manage your posting schedule.</p>
-
+        <img src="assets/img/navigatetime.jpg" alt="Login Image">
         <h1 id="step04">
             <a href="#step04" class="header-anchor">#</a>
             Step 4: Utilize the calendar
         </h1>
         <p>From the calendar view, you can effortlessly locate and manage your posts. Filter the calendar to view posts specific to individual social media accounts, providing a tailored approach to post organization.</p>
-
+        <img src="assets/img/utilizethecalendar.jpg" alt="Login Image">
         <h1 id="step05">
             <a href="#step05" class="header-anchor">#</a>
             Step 5: Repost and Edit with Ease
@@ -52,6 +52,7 @@
             Step 6: Save to Library for Future Use
         </h1>
         <p>If you have posts that you want to reuse or repurpose, save them to the "Add Library." This feature acts as your content repository, making it convenient to access and reuse your top-performing posts.</p>
+        <img src="assets/img/savetolibrary.jpg" alt="Login Image">
         <p>By mastering these post management features in Smart Social, you're empowered to optimize your social media presence efficiently and effectively. If you ever need assistance or have questions, our support team is here to help.</p>
         <p>Happy managing!</p>
     </div>
