@@ -18,6 +18,7 @@
     <p>
         Start by locating the "Post" option in the Navigation Bar. Click on it, and then choose "Create Post."
     </p>
+    <img src="assets/img/2nd_document_stepone.jpg" alt="Login Image">
     <h1 id="step02">
       <a href="#step02" class="header-anchor">#</a>
       Step 2: Draft Your Post - Write a Captivating Caption
@@ -25,6 +26,7 @@
     <p>
         Once in the post creation draft, unleash your creativity by crafting a compelling caption. This is your opportunity to grab your audience's attention, so make it engaging and relevant to your content.
     </p>
+    <img src="assets/img/2nd_document_steptwo.jpg" alt="Login Image">
     <h1 id="step03">
       <a href="#step03" class="header-anchor">#</a>
       Step 3: Supercharge Your Hashtags with AI Assistance
